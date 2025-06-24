@@ -4,7 +4,7 @@ A data science project that predicts equipment failures using sensor data to ena
 # 📊 Project Overview
 This project uses machine learning to analyze historical sensor data and predict the likelihood of machinery failure. The goal is to reduce unexpected downtime and optimize maintenance schedules.
 
-#❗ Problem Statement
+# ❗ Problem Statement
 Unexpected equipment failures can cause costly production halts. Traditional reactive or scheduled maintenance may not be sufficient. The aim is to predict failures in advance to prevent unplanned outages
 
 # 🎯 Objectives
